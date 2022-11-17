@@ -110,6 +110,13 @@ The model Case for runnning to maximize the performance and reliability of the o
 5. FIFTH CASE - ADD 90 ROTATION OF CASE 3.
 6. SIXTH CASE - ADD 90 ROTATION OF NEW AUGMENTATION METHOD.
 
+
+## BASELINE RESULTS
+The error analysis in baseline showed there are two issue about the model prediction.
+
+![image](https://user-images.githubusercontent.com/104628789/202327515-2b7fb365-6632-4d10-a610-67e57023629e.png)
+ 
+
 ## POST-AUGMENTATION RESULTS
 
 the Results of real case detection from 'Oil Spill Case from Caspian Sea, Azerbaijan' and 'Oil Spill Case from Latakia, Syria to Cyprus' which showed that they could detect the non-line spill shape after doing the augmentation at least 300 pictures.
@@ -127,6 +134,18 @@ the Results of real case detection from 'Oil Spill Case from Caspian Sea, Azerba
 The table below showed the comparison between test metrics of post-augmented model which **CASE-5** ( non-line shape augmentation with applying additional 90 degree rotation) provided the best score in Recall , Max F1 Score, mPA@ IoU > 0.5, mPA@ IoU > 0.5 and < 0.95.
 
 ![image](https://user-images.githubusercontent.com/104628789/202327014-0fd4ca06-e605-4ebc-a508-168ee7782662.png)
+
+## Model Constraints
+
+![image](https://user-images.githubusercontent.com/104628789/202327376-4698950e-a947-4385-8cf6-41ca240753c1.png)
+
+
+## CONCLUSION
+
+The reason above I decided to apply the CASE-5 Model to use for developing "Oil Spill Detection System".
+
+![image](https://user-images.githubusercontent.com/104628789/202327345-7e3dcedb-d896-4383-9d01-b64d5743f451.png)
+
 
 
 
