@@ -24,6 +24,7 @@ An oil spill is the release of a liquid petroleum hydrocarbon into the environme
     
 ### The consequence of Oil Spill
  
+![image](https://user-images.githubusercontent.com/104628789/202326226-e24537e5-e6be-45bf-b26b-115ba99f0e5d.png)
 
 
 
@@ -53,3 +54,76 @@ Oil Spill can caused from main source with the following items,
 3. Pipeline
 
 4. Storage Tank
+
+
+## 💂🏼‍♂️ Dataset ##
+
+The dataset is derived from the Roboflow websites which include the SAR (Synthetic Aperture Radar) Oil spill with the original data from 1000 datasets which is split into train, val, test for 700,200 and 100 respectively. However, The data provider has prelimiary augmented train set to increase number of train dataset with the following condition,
+
+-    Crop : 0 - 37 %.
+-    Rotation : -5 to 5.
+-    Brightness : -30 - 0.
+-    Blur : Up to 2 Px.
+-    Noise : Up to 10 % of pixel.
+
+**Dataset Name** : SARImgV3
+
+**Data Provider** : Matteo Attimonelli
+
+**Data Type** : Synthetic Aperture Radar (SAR).
+
+URL Link : 'https://universe.roboflow.com/matteo-attimonelli1999-gmail-com/sarimgv3'
+
+## Example of Train Set
+
+![image](https://user-images.githubusercontent.com/104628789/202325986-e1e4f226-04a6-42c1-a40e-04357e317727.png)
+
+## REAL CASE TEST DETECTION
+
+To test the real oil spill events around by selecting the difference location around the world i.e. USA, Peru, Spain etc. and difference type of satellite mission i.e. Sentinel 1/2, ERS-1/2 etc.
+
+![image](https://user-images.githubusercontent.com/104628789/202326157-2d78d180-90b8-492e-a657-5e79e28ae0cb.png)
+
+## MODEL YOLOV7
+
+#### What is YOLOv7?
+The YOLO (You Only Look Once) v7 model is the latest in the family of YOLO models. YOLO models are single stage object detectors. In a YOLO model, image frames are featurized through a backbone. These features are combined and mixed in the neck, and then they are passed along to the head of the network YOLO predicts the locations and classes of objects around which bounding boxes should be drawn.
+
+![image](https://user-images.githubusercontent.com/104628789/202326415-0d74cb4a-d74e-4c24-bc11-b9da90cd351a.png)
+
+The evaluation of YOLOv7 models show that they infer faster (x-axis) and with greater accuracy (y-axis) than comparable realtime object detection models.
+
+The github link the YOLOV Version 7 is 'https://github.com/WongKinYiu/yolov7' 
+
+#### The example file of YOLO Detection
+
+![image](https://user-images.githubusercontent.com/104628789/202326499-26b52b4b-e241-4f17-a6df-59494b9ec298.png)
+
+## MODEL SCENARIOS.
+
+1. FIRST CASE - 200 EPOCHS
+2. SECOND CASE - 300 EPOCHS
+3. THIRD CASE - ADD AUGMENTED NON-LINE SHAPE FOR 300 PICTURES
+4. FORTH CASE - ADD AUGMENTED NON-LINE SHAPE FOR 900 PICTURES.
+5. FIFTH CASE - ADD 90 ROTATION OF CASE 3.
+6. SIXTH CASE - ADD 90 ROTATION OF NEW AUGMENTATION METHOD.
+
+## POST-AUGMENTATION RESULTS
+
+![image](https://user-images.githubusercontent.com/104628789/202326880-6a919d2c-7822-4f84-b405-35a290f4916f.png)
+
+
+## BEST MODEL PREDICTION
+
+![image](https://user-images.githubusercontent.com/104628789/202326915-22d4da3c-4feb-4190-889d-15f0ca816011.png)
+
+
+## MODEL COMPARISON
+
+The table below showed the comparison between test metrics of post-augmented model which **CASE-5** ( non-line shape augmentation with applying additional 90 degree rotation) provided the best score in Recall , Max F1 Score, mPA@ IoU > 0.5, mPA@ IoU > 0.5 and < 0.95.
+
+![image](https://user-images.githubusercontent.com/104628789/202327014-0fd4ca06-e605-4ebc-a508-168ee7782662.png)
+
+
+
+
