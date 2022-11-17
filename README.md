@@ -99,7 +99,9 @@ The github link the YOLOV Version 7 is 'https://github.com/WongKinYiu/yolov7'
 
 ![image](https://user-images.githubusercontent.com/104628789/202326499-26b52b4b-e241-4f17-a6df-59494b9ec298.png)
 
-## MODEL SCENARIOS.
+## MODEL CASE.
+
+The model Case for runnning to maximize the performance and reliability of the object detection model.
 
 1. FIRST CASE - 200 EPOCHS
 2. SECOND CASE - 300 EPOCHS
@@ -109,6 +111,8 @@ The github link the YOLOV Version 7 is 'https://github.com/WongKinYiu/yolov7'
 6. SIXTH CASE - ADD 90 ROTATION OF NEW AUGMENTATION METHOD.
 
 ## POST-AUGMENTATION RESULTS
+
+the Results of real case detection from 'Oil Spill Case from Caspian Sea, Azerbaijan' and 'Oil Spill Case from Latakia, Syria to Cyprus' which showed that they could detect the non-line spill shape after doing the augmentation at least 300 pictures.
 
 ![image](https://user-images.githubusercontent.com/104628789/202326880-6a919d2c-7822-4f84-b405-35a290f4916f.png)
 
