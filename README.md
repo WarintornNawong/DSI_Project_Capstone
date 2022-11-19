@@ -146,7 +146,8 @@ The table below showed the comparison between test metrics of post-augmented mod
 
 With the reason I have specified earlier,  I decided to apply the CASE-5 Model to use for developing "Oil Spill Detection System".
 
-![image](https://user-images.githubusercontent.com/104628789/202327345-7e3dcedb-d896-4383-9d01-b64d5743f451.png)
+![image](https://user-images.githubusercontent.com/104628789/202851707-b4210a4e-5e42-4722-b1aa-bbf385313c32.png)
+
 
 
 
