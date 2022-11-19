@@ -22,9 +22,9 @@ To establish the schedule-based ocean monitoring to ensure the compliance of oil
 An oil spill is the release of a liquid petroleum hydrocarbon into the environment, especially the marine ecosystem, due to human activity, and is a form of pollution. The term is usually given to marine oil spills, where oil is released into the ocean or coastal waters, but spills may also occur on land. Oil spills may be due to releases of crude oil from tankers, offshore platforms, drilling rigs and wells, as well as spills of refined petroleum products (such as gasoline, diesel) and their by-products, heavier fuels used by large ships such as bunker fuel, or the spill of any oily refuse or waste oil. (Wikipedia)
     
     
-### The consequence of Oil Spill
+### The Consequence of Oil Spill
  
-![image](https://user-images.githubusercontent.com/104628789/202326226-e24537e5-e6be-45bf-b26b-115ba99f0e5d.png)
+![image](https://user-images.githubusercontent.com/104628789/202838689-61db77f2-58f6-4c96-bb71-377a7fe8b9f5.png)
 
 
 
@@ -43,7 +43,7 @@ Oil spills can lead to severe disruption for the tourist industry. Contamination
 An oil spill represents an immediate negative effects on human health, including respiratory and reproductive problems as well as liver, and immune system damage. Oil spills causing future oil supply to decline also effects the everyday life of humans such as the potential closure of beaches, parks, fisheries and fire hazards. (Wikipedia)
     
     
-### The cause of Oil Spill
+### The Cause of Oil Spill
 
 Oil Spill can caused from main source with the following items, 
 
