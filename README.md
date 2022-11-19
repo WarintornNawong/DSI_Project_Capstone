@@ -131,9 +131,9 @@ the results of real case detection from 'Oil Spill Case from Caspian Sea, Azerba
 
 ## MODEL COMPARISON
 
-The table below showed the comparison between test metrics of post-augmented model which **CASE-5** ( non-line shape augmentation with applying additional 90 degree rotation) provided the best score in Recall , Max F1 Score, mPA@ IoU > 0.5, mPA@ IoU > 0.5 and < 0.95.
+The table below showed the comparison between test metrics of post-augmented model which **CASE-5** ( non-line shape augmentation with applying additional 90 degree rotation) provided the best score in Recall , Max F1 Score, mPA@ IoU > 0.5.
 
-![image](https://user-images.githubusercontent.com/104628789/202327014-0fd4ca06-e605-4ebc-a508-168ee7782662.png)
+![image](https://user-images.githubusercontent.com/104628789/202847369-59e76041-c426-483d-8eb3-f9690d54c51b.png)
 
 ## Model Constraints
 
