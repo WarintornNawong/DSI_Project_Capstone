@@ -89,7 +89,8 @@ To test the real oil spill events around by selecting the difference location ar
 #### What is YOLOv7?
 The YOLO (You Only Look Once) v7 model is the latest in the family of YOLO models. YOLO models are single stage object detectors. In a YOLO model, image frames are featurized through a backbone. These features are combined and mixed in the neck, and then they are passed along to the head of the network YOLO predicts the locations and classes of objects around which bounding boxes should be drawn.
 
-![image](https://user-images.githubusercontent.com/104628789/202326415-0d74cb4a-d74e-4c24-bc11-b9da90cd351a.png)
+![image](https://user-images.githubusercontent.com/104628789/202851757-4f606fa5-76f2-40c4-abfa-61322c2bbe6a.png)
+
 
 The evaluation of YOLOv7 models show that they infer faster (x-axis) and with greater accuracy (y-axis) than comparable realtime object detection models.
 
