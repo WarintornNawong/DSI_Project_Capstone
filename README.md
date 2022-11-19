@@ -45,18 +45,10 @@ An oil spill represents an immediate negative effects on human health, including
     
 ### The Cause of Oil Spill
 
-![image](https://user-images.githubusercontent.com/104628789/202851792-171868a8-3894-4a3c-b3ba-cadd90896f39.png)
-
-
 Oil Spill can caused from main source with the following items, 
 
-1. Oil Tanker/Transport Vessels
+![image](https://user-images.githubusercontent.com/104628789/202851792-171868a8-3894-4a3c-b3ba-cadd90896f39.png)
 
-2. Oil Rig/Platform
-
-3. Pipeline
-
-4. Storage Tank
 
 
 ## 💂🏼‍♂️ Dataset ##
