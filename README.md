@@ -126,6 +126,8 @@ the results of real case detection from 'Oil Spill Case from Caspian Sea, Azerba
 
 ## BEST MODEL PREDICTION
 
+The results of best model prediction for major oil spill around the world.
+
 ![image](https://user-images.githubusercontent.com/104628789/202326915-22d4da3c-4feb-4190-889d-15f0ca816011.png)
 
 
