@@ -119,7 +119,7 @@ The error analysis in baseline showed there are two issue about the model predic
 
 ## POST-AUGMENTATION RESULTS
 
-the Results of real case detection from 'Oil Spill Case from Caspian Sea, Azerbaijan' and 'Oil Spill Case from Latakia, Syria to Cyprus' which showed that they could detect the non-line spill shape after doing the augmentation at least 300 pictures.
+the results of real case detection from 'Oil Spill Case from Caspian Sea, Azerbaijan' and 'Oil Spill Case from Latakia, Syria to Cyprus' which showed that they could detect the non-line spill shape after doing the augmentation at least 300 pictures.
 
 ![image](https://user-images.githubusercontent.com/104628789/202326880-6a919d2c-7822-4f84-b405-35a290f4916f.png)
 
@@ -142,7 +142,7 @@ The table below showed the comparison between test metrics of post-augmented mod
 
 ## CONCLUSION
 
-The reason above I decided to apply the CASE-5 Model to use for developing "Oil Spill Detection System".
+With the reason I have specified earlier,  I decided to apply the CASE-5 Model to use for developing "Oil Spill Detection System".
 
 ![image](https://user-images.githubusercontent.com/104628789/202327345-7e3dcedb-d896-4383-9d01-b64d5743f451.png)
 
